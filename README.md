@@ -68,7 +68,7 @@ npm run server
 # Start frontend
 npm run dev
 
-
+```
 
 ## 🎯 Conclusion
 Smart JobX isn’t just another job portal — it’s a **career accelerator**.  
