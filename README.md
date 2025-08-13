@@ -4,92 +4,66 @@
 </p>
 
 <h1 align="center">🚀 Smart JobX</h1>
-<p align="center"><b>Built by Students. Powered by AI. Made for You.</b></p>
+<p align="center"><b>Built by Student. Powered by AI. Made for You.</b></p>
 <p align="center">
 An AI-powered job readiness platform designed to bridge the <b>Skill Gap</b> between graduates and their dream roles.
 </p>
 
 ---
 
-## 🌟 Overview
-🎓 Every year, millions of graduates step into the job market with dreams in hand and polished resumes — but only a few land where they truly belong.  
+## 🌟 About the Project
+Smart JobX is a full-stack, AI-driven platform that bridges the gap between education and employment.  
+Every year, millions of graduates enter the job market with high hopes — but many fall short of landing their dream roles.  
+Why? **The Skill Gap.**  
 
-💡 Why? Because between education and employment lies **a gap** — the **Skill Gap**.  
-Smart JobX is here to close it.  
-
-🚀 This platform, designed and developed by students, empowers job seekers with:
-- 🤖 **AI-driven Resume Analysis**  
-- 📊 **Skill Gap Insights**  
-- 🧪 **Mock Assessments** mirroring industry expectations  
-- 📧 **Referral Requests** to recruiters  
+Smart JobX addresses this challenge by:
+- Analyzing resumes with AI to match the right opportunities  
+- Visualizing skill gaps with actionable insights  
+- Providing industry-level mock assessments  
+- Directly connecting top performers to recruiters  
 
 ---
 
 ## 🛠 Tech Stack
-
-| Category         | Technologies |
-|------------------|--------------|
-| **Frontend**     | React.js, Tailwind CSS |
-| **Backend**      | Node.js, Express.js |
-| **Database**     | MongoDB |
-| **AI Modules**   | Python, Scikit-learn, Pandas, NLTK |
-| **Auth**         | JWT, Role-based Access |
-| **Version Control** | Git & GitHub |
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **AI Modules:** Python (Scikit-learn, Pandas, NLTK)  
+- **Authentication:** JWT, Role-based Access  
 
 ---
 
-## ✨ Key Features
-
-### 🔐 Authentication Module
-- Secure, role-based logins for **Job Seekers**, **Recruiters**, and **Admins**.
-
-### 📝 Job Posting
-- Recruiters can post jobs, seekers can apply with **one click**.
-
-### 📄 Resume Analysis
-- Upload your resume, and AI recommends jobs based on your skills.
-
-### 🧠 Skill Gap Analysis
-- Visual dashboards showing strengths, weaknesses, and learning paths.
-
-### 🧪 Mock Assessments
-- Industry-relevant questions, real-time results, and progress tracking.
-
-### 📧 Referral Requests
-- Top performers get direct recruiter recommendations.
-
----
-
-## 📸 Screenshots / Demo
-<p align="center">
-  <em>Coming Soon – Show your platform in action!</em>
-</p>
+## ✨ Features
+- **🔐 Authentication:** Secure, role-based access for job seekers and recruiters  
+- **📝 Job Posting:** Post and apply for jobs in one click  
+- **📄 Resume Analysis:** AI-powered skill mapping and job recommendations  
+- **🧠 Skill Gap Insights:** Visual dashboards showing strengths and learning paths  
+- **🧪 Mock Assessments:** Real-world tests with instant results  
+- **📧 Referral Requests:** High scorers get directly referred to recruiters  
 
 ---
 
 ## 🚀 Getting Started
 
-### 📋 Prerequisites
-- Node.js & npm
-- Python 3.x
+### Prerequisites
+- Node.js & npm  
+- Python 3.x  
 - MongoDB (local or cloud)
 
-### ⚡ Installation
+### Installation
 ```bash
 # Clone the repository
 git clone https://github.com/<your-username>/smart-jobx.git
 
-# Navigate to project
+# Install dependencies
 cd smart-jobx
-
-# Install frontend & backend dependencies
 npm install
 
 # Install Python dependencies for AI modules
 pip install -r requirements.txt
 
-# Run backend
+# Start backend
 npm run server
 
-# Run frontend
+# Start frontend
 npm start
