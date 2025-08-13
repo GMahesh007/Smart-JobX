@@ -1,0 +1,44 @@
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marquee-reverse {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* First row animation */
+.track {
+  animation: marquee 175s linear infinite;
+}
+
+.track:hover {
+  animation-play-state: paused;
+}
+
+/* Second row animation with offset */
+@keyframes marquee-second-row {
+  0% {
+    transform: translateX(200px); /* Start with the offset */
+  }
+  100% {
+    transform: translateX(calc(-100% + 200px)); /* Adjust the endpoint with the offset */
+  }
+}
+
+.second-row {
+  animation: marquee-second-row 170s linear infinite; /* Use the new keyframes */
+}
+
+.second-row:hover {
+  animation-play-state: paused;
+}
