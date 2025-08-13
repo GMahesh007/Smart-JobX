@@ -25,11 +25,11 @@ Smart JobX addresses this challenge by:
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS, ShadCN 
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MongoDB(Mongoose)
 - **AI Modules:** Python (Scikit-learn, Pandas, NLTK)  
-- **Authentication:** JWT, Role-based Access  
+- **Authentication:** JWT, Google OAuth for recruiters
 
 ---
 
