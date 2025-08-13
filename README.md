@@ -66,4 +66,22 @@ pip install -r requirements.txt
 npm run server
 
 # Start frontend
-npm start
+npm run dev
+
+
+
+## 🎯 Conclusion
+Smart JobX isn’t just another job portal — it’s a **career accelerator**.  
+From identifying your strengths to bridging your skill gaps, from resume analysis to recruiter referrals — we’re here to **transform job seekers into job winners**.  
+
+Whether you’re a fresh graduate or a professional looking to upskill, **Smart JobX is your AI-powered partner** in landing your dream role. 🚀  
+
+🌟 *Because the right skills open the right doors.*
+
+---
+
+## 📬 Connect with Me  
+📧 **Email:** [maheshshedolkar@gmail.com](mailto:maheshshedolkar@gmail.com)  
+💼 **LinkedIn:** [G Mahesh](https://www.linkedin.com/in/gmaheshmahi007/)  
+🏆 **Portfolio:** [View Here](https://gmahesh007.github.io/Personal_Portfolio07-/)  
+
