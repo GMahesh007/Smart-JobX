@@ -81,7 +81,5 @@ Whether you’re a fresh graduate or a professional looking to upskill, **Smart 
 ---
 
 ## 📬 Connect with Me  
-📧 **Email:** [maheshshedolkar@gmail.com](mailto:maheshshedolkar@gmail.com)  
-💼 **LinkedIn:** [G Mahesh](https://www.linkedin.com/in/gmaheshmahi007/)  
-🏆 **Portfolio:** [View Here](https://gmahesh007.github.io/Personal_Portfolio07-/)  
+📧 **Email:** [maheshshedolkar@gmail.com](mailto:maheshshedolkar@gmail.com)   
 
